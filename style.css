@@ -50,5 +50,6 @@ form button{
     border: none;
     outline: none;
     height: 70px;
-    width:100px;
+    width: 100px;
+    cursor: ;
 }
